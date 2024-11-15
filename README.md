@@ -4,7 +4,7 @@ A sleek, modern streaming interface forked from [NovaFork](https://github.com/no
 
 ## Changes from NovaFork
 - Rebranded interface with modern styling
-- Removed intrusive advertisements and redirects
+- Removed some of the intrusive advertisements and redirects
 - Added user-friendly warning system
 - Improved UI/UX with smooth animations
 - Cleaned up codebase and removed unnecessary scripts
